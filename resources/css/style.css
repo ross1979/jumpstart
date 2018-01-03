@@ -81,19 +81,19 @@ img {
     1px 1px 0 #000;
 }
 
-.background-ross {
+.background-bike {
   background-image: url("../images/jumbotron-bike.jpg");
 }
 
-.background-design {
+.background-beer {
   background-image: url("../images/jumbotron-beer.jpg");
 }
 
-.background-development {
+.background-flowers {
   background-image: url("../images/jumbotron-flowers.jpg");
 }
 
-.background-tech {
+.background-duffel {
   background-image: url("../images/jumbotron-duffel.jpg");
 }
 
